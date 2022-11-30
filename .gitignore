@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+imdb-cmudb2022.db
+submission.zip
